@@ -1,0 +1,12 @@
+1. Set up git options for global 
+
+user					git config --global name.user "SZymon" 
+email
+core editor e.g 		git config --global core.editor notepad++
+revert changesgit		git config --unset user.name
+
+git status - display repo status
+git add <filename> eg git add readme.txt 	- add file to a repo
+
+git commit 	- commit to repe
+git log 	- show log from a commit
