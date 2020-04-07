@@ -8,5 +8,17 @@ revert changesgit		git config --unset user.name
 git status - display repo status
 git add <filename> eg git add readme.txt 	- add file to a repo
 
-git commit 	- commit to repe
+git commit 	- commit to repo
 git log 	- show log from a commit
+
+git diff 	- show differences between commits
+
+e.g. git diff ft5432...432fds  (using hashes from git log)
+
+without using has
+	- HEAD = latest commit
+	- HEAD~1 = 1 commit further from the latest commit (if you have 2, then "~1" is the 1st one)
+
+Deleting and renaming files:
+
+
