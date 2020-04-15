@@ -1,10 +1,5 @@
 fie1 code!
 
 
-<<<<<<< HEAD
 share remotely on Tuesday!
-
-rebasing seriously very
-=======
-share remotelu on Tuesday!fix1
->>>>>>> 2fd1a5f... Added fix 1
+Added fix 1
